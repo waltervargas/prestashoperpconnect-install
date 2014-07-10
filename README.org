@@ -7,7 +7,7 @@ $ cd addons_path/
 #+end_example
 
 #+begin_example
-$ git clone git@github.com:waltervargas/prestashoperpconnect-install.git deps
+$ git clone git@github.com:waltervargas/prestashoperpconnect-install.git prestashopconnect_deps
 #+end_example
 
 #+begin_example
