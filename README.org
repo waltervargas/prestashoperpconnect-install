@@ -11,5 +11,5 @@ $ git clone git@github.com:waltervargas/prestashoperpconnect-install.git prestas
 #+end_example
 
 #+begin_example
-$ sh deps/make_links.sh 
+$ sh prestashopconnect_deps/make_links.sh 
 #+end_example
