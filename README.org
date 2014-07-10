@@ -3,6 +3,10 @@
 *** INSTALL
 
 #+begin_example
+$ cd addons_path/
+#+end_example
+
+#+begin_example
 $ git clone git@github.com:waltervargas/prestashoperpconnect-install.git deps
 #+end_example
 
